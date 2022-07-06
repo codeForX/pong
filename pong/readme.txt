@@ -1,3 +1,3 @@
 heres pong the ai sucks but....... thats life
 
-to use drag onto LOVE game engine to run
+to use drag into the LOVE game engine
